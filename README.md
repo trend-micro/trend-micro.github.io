@@ -1,8 +1,8 @@
 ## Trend Micro
 
-Explore Trend Micro's Advanced Cybersecurity Solutions, Products, and Insights for Individuals and Businesses.
+Explore [Trend Micro]() Advanced Cybersecurity Solutions, Products, and Insights for Individuals and Businesses.
 
-Trend Micro is one of the top antivirus softwares that helps in providing protection to all the devices. It works well in preventing viruses, malware, spyware and many other attacks that performs by cybercriminals. This security application allows to live with safety in this digital environment by blocking unauthorized access to save your stored data.  
+[Trend Micro]() is one of the top antivirus softwares that helps in providing protection to all the devices. It works well in preventing viruses, malware, spyware and many other attacks that performs by cybercriminals. This security application allows to live with safety in this digital environment by blocking unauthorized access to save your stored data.  
 
 
 
@@ -32,7 +32,7 @@ Trend Micro is one of the top antivirus softwares that helps in providing protec
 1. Purchase a License
 2. Check System Requirements
 3. Uninstall Previous Security Software
-4. Download Trend Micro
+4. Download [Trend Micro]()
 5. Run the Installer
 6. Enter Your Product Key
 7. Choose Installation Options
